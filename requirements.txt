@@ -1,4 +1,8 @@
-README.md
-app.py
-requirements.txt
-mapa.py
+streamlit
+firebase-admin
+geopy
+folium
+streamlit-folium
+fpdf2
+pandas
+openpyxl
